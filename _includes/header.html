@@ -1,0 +1,32 @@
+<header class="site-header">
+  <div class="wrapper">
+
+    <nav class="site-nav">
+      <div class="site-title">{{ site.title | escape }}</div>
+      <div class="site-title-short">{{ site.title_short | escape }}</div>
+
+      <!-- menu button for mobile devices -->
+      <div id='menu-toggle' data-action="show-menu" class='menu-toggle'>
+        <span class='top'></span>
+        <span class='middle'></span>
+        <span class='bottom'></span>
+      </div>
+
+      {%- assign default_paths = site.pages | map: "path" -%}
+      {%- assign page_paths = site.header_pages | default: default_paths -%}
+      {%- if page_paths -%}
+      <div class="menu">
+        <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
+        {% for node in site.pages %}
+          {% if node.title and page.url == node.url %}
+            <a class="page-link page-active" href="{{node.url|relative_url}}">{{node.title|escape}}</a>
+          {% elsif node.title %}
+            <a class="page-link" href="{{node.url|relative_url}}">{{node.title|escape}}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      {%- endif -%}
+
+    </nav>
+  </div>
+</header>

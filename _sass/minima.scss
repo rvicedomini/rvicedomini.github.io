@@ -1,0 +1,69 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;700&display=swap');
+
+// Define defaults for each variable.
+
+$base-font-family: 'Montserrat', sans-serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$base-line-height: 1.5 !default;
+
+$title-font-family: $base-font-family !default;
+$title-font-size:   1.5 * $base-font-size !default;
+$title-font-weight: 800 !default;
+
+$head-font-family: $base-font-family !default;
+$head-font-weight: 600 !default;
+
+$small-font-size:  0.875 * $base-font-size !default;
+
+$code-font-family: 'Inconsolata', monospace !default;
+$code-font-weight: 300; // light
+
+$spacing-unit:     28px !default;
+
+$grey-color:       #808080 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$text-color:       $grey-color-dark !default;
+$background-color: #FDFDFD !default;
+
+// $link-color:       #1A99B6 !default;
+// $link-color-hover: #E0245E;
+
+$link-color:       $grey-color-dark !default;
+$link-color-hover: #E0245E !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    1024px !default;
+$on-palm:          679px !default;
+$on-small:         359px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting",
+  "minima/navigation"
+;

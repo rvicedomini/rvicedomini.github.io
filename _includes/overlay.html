@@ -1,0 +1,15 @@
+<div id='overlay' class='overlay'>
+    <nav class="overlay-menu">
+      MENU
+      <ul>
+        <li><a href="{{ "/" | relative_url }}">Home</a></li>
+        {% for node in site.pages %}
+          {% if node.title and page.url == node.url %}
+          <li><a class="page-active" href="{{node.url|relative_url}}">{{node.title|escape}}</a></li>
+          {% elsif node.title %}
+          <li><a href="{{node.url|relative_url}}">{{node.title|escape}}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+</div>

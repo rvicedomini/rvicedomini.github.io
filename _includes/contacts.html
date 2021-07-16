@@ -1,0 +1,28 @@
+<!-- <h1 id="contacts">Contacts &amp; other resources</h1> -->
+
+<ul class="contact-list">
+  {%- if site.email -%}
+  <li>
+    <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#letter' | relative_url }}"></use></svg> 
+    <span id="indirizzo">{{ site.email }}</span>
+  </li>
+  {%- endif -%}
+  {%- if site.twitter_username -%}
+  <li>
+    <svg class="svg-icon" style="fill:#1da1f2;"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> 
+    <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><span>{{ site.twitter_username| escape }}</span></a>
+  </li>
+  {%- endif -%}
+  {%- if site.github_username -%}
+  <li>
+    <svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> 
+    <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span>{{ site.github_username| escape }}</span></a>
+  </li>
+  {%- endif -%}
+  {%- if site.orcid_id -%}
+  <li>
+    <img class="svg-icon" src="{{ '/assets/orcid.svg' | relative_url }}"/>
+    <a href="https://www.orcid.org/{{ site.orcid_id | escape }}"><span>ORCID</span></a>
+  </li>
+  {%- endif -%}
+</ul>
