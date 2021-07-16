@@ -16,7 +16,6 @@
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       {%- if page_paths -%}
       <div class="menu">
-        <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
         {% for node in site.pages %}
           {% if node.title and page.url == node.url %}
             <a class="page-link page-active" href="{{node.url|relative_url}}">{{node.title|escape}}</a>
