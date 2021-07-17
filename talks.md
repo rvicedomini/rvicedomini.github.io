@@ -7,7 +7,7 @@ permalink: /talks/
 **Automated strain separation in low-complexity metagenomes using long reads**
 : Nanopore Community Meeting 2020, Online
 
-**ProfileView: a pipeline based on multiple probabilisticmodels resolving the functional organization of the Cryptochrome/Photolyase protein family**
+**ProfileView: a pipeline based on multiple probabilistic models resolving the functional organization of the Cryptochrome/Photolyase protein family**
 : ISMB/ECCB 2019, Basel 🇨🇭
 
 **Multiple probabilistic models resolve the functional organization of the Cryptochrome/Photolyase protein family**

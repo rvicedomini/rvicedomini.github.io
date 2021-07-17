@@ -15,7 +15,7 @@ permalink: /teaching/
 # 2018/19
 
 **Phylogenetics and comparative genomics: mathematical methods and algorithms**
-: Practical course (TP), 2nd year of Master’s degree in Bioinformatics
+: Practical course (TP), 2nd year MSc in Bioinformatics
 : Sorbonne Université, Paris, France
 : *14 hours*
 
@@ -28,7 +28,7 @@ permalink: /teaching/
 : *12 hours*
 
 **Phylogenetics and comparative genomics: mathematical methods and algorithms**
-: Practical course (TP), 2nd year of Master’s degree in Bioinformatics
+: Practical course (TP), 2nd year MSc in Bioinformatics
 : Sorbonne Université, Paris, France
 : *14 hours*
 
