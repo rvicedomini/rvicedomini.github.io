@@ -15,7 +15,7 @@ permalink: /teaching/
 # 2018/19
 
 **Phylogenetics and comparative genomics: mathematical methods and algorithms**
-: Practical course (TP), 2nd year MSc in Bioinformatics
+: Practical course (TP), 2nd year, MSc in Bioinformatics
 : Sorbonne Université, Paris, France
 : *14 hours*
 
@@ -23,12 +23,12 @@ permalink: /teaching/
 # 2017/18
 
 **Statistics in bioinformatics and algorithms on sequences**
-: Practical course and exercises (TP &amp; TD), 1st year of MSc in Bioinformatics
+: Practical course and exercises (TP &amp; TD), 1st year, MSc in Bioinformatics
 : Sorbonne Université, Paris, France
 : *12 hours*
 
 **Phylogenetics and comparative genomics: mathematical methods and algorithms**
-: Practical course (TP), 2nd year MSc in Bioinformatics
+: Practical course (TP), 2nd year, MSc in Bioinformatics
 : Sorbonne Université, Paris, France
 : *14 hours*
 
@@ -44,6 +44,6 @@ permalink: /teaching/
 # 2013/14 -- 2014/15
 
 **Algorithms and data structures**
-: Teaching assistant, 2nd year BSc in Computer Science
+: Teaching assistant, 2nd year, BSc in Computer Science
 : University of Udine, Udine, Italy
 : *24 hours*
