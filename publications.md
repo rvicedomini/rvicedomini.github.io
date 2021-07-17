@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# Journal publications
+# International Journals
 
 - D. Danko *et al.*,
 **A global metagenomic map of urban microbiomes and antimicrobial resistance**,
@@ -46,16 +46,15 @@ bioRxiv (2021). doi:&nbsp;[10.1101/2021.02.24.429166](https://doi.org/10.1101/20
 bioRxiv (2021). doi:&nbsp;[10.1101/717249](https://doi.org/10.1101/717249)
 
 
-# Manuscripts
-
-- Vicedomini R.,
-**Alignment and reconciliation strategies for large-scale de novo assembly**,
-Doctoral Thesis, Università degli Studi di Udine (2016). [[pdf](https://air.uniud.it/bitstream/11390/1132931/1/10990_684_thesis_final_pdfa.pdf)]
-
-
-# Proceedings
+# Conferences
 
 - R. Vicedomini, F. Vezzi, S. Scalabrin, L. Arvestad &amp; A. Policriti,
 **Hierarchical assembly of pools**,
 Bioinformatics and Biomedical Engineering, Lecture Notes in Computer Science, Springer International Publishing (2015). doi:&nbsp;[10.1007/978-3-319-16480-9_21](https://doi.org/10.1007/978-3-319-16480-9_21)
 
+
+# PhD Thesis
+
+- Vicedomini R.,
+**Alignment and reconciliation strategies for large-scale de novo assembly**,
+Doctoral Thesis, Università degli Studi di Udine (2016). [[pdf](https://air.uniud.it/bitstream/11390/1132931/1/10990_684_thesis_final_pdfa.pdf)]
