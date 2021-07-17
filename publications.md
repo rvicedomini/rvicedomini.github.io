@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# International Journals
+# Journals
 
 - D. Danko *et al.*,
 **A global metagenomic map of urban microbiomes and antimicrobial resistance**,
