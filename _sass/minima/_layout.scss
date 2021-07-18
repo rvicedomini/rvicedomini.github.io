@@ -1,11 +1,18 @@
+.site-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+
 /**
  * Site header
  */
 header.site-header {
+  flex-shrink: 0;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  align-self: flex-start;
   width: 100%;
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
@@ -79,6 +86,7 @@ nav.site-nav {
 /*** FOOTER ***/
 
 .site-footer {
+  flex-shrink: 0;
   border-top: 1px solid $grey-color-light;
   padding: ($spacing-unit/3) 0;
 
@@ -98,9 +106,9 @@ nav.site-nav {
 /**
  * Page content
  */
-.page-content {
+.site-content {
   padding: $spacing-unit 0;
-  flex: 1;
+  flex: 1 0 auto;
 }
 
 

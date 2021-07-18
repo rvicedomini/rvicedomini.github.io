@@ -4,17 +4,16 @@
   {%- include head.html -%}
 
   <body>
-
-    {%- include overlay.html -%}
-    {%- include header.html -%}
-
-    <main class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include footer.html -%}
+    <div class="site-container">
+      {%- include overlay.html -%}
+      {%- include header.html -%}
+      <main class="site-content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      </main>
+      {%- include footer.html -%}
+    </div>
 
     <script src="{{ '/assets/main.js' | relative_url }}"></script>
 
