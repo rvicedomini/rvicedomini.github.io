@@ -20,7 +20,7 @@ In my free time I enjoy programming, running, playing piano.
 I studied Computer Science at the University of Udine (Italy) and earned a PhD in 2016.
 Under the supervision of [Alberto Policriti](http://users.dimi.uniud.it/~alberto.policriti/), I worked on methods for *de novo* genome assembly and approximate sequence alignment.
 
-During my PhD studies, I also contributed to the *Spruce Genome Project* for the assembly of the first draft sequence of the 20-Gbp *Picea abies* genome. 
+During my PhD, I also contributed to the *Spruce Genome Project* for the assembly of the first draft sequence of the 20-Gbp *Picea abies* genome. 
 I adapted the assembly reconciliation tool I was developing in order to cope with the huge amount of data produced and to improve assembly's quality.
 
 After the PhD, I started a postdoc at Sorbonne Université (Paris, France). I worked on methods for protein domain annotation and functional characterization 

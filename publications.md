@@ -8,7 +8,7 @@ permalink: /publications/
 
 - R. Vicedomini, C. Quince, A. E. Darling &amp; R. Chikhi,
 **Strainberry: automated strain separation in low-complexity metagenomes using long reads**,
-*Nature Communications* (2021).
+*Nature Communications* (2021). doi:&nbsp;[10.1038/s41467-021-24515-9](https://doi.org/10.1038/s41467-021-24515-9)
 
 - D. Danko *et al.*,
 **A global metagenomic map of urban microbiomes and antimicrobial resistance**,
