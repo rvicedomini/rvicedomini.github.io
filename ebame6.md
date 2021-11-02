@@ -1,9 +1,6 @@
 ---
-layout: page
-title: EBAME6 Strain-level metagenome assembly with Strainberry
+layout: default
 permalink: /ebame6/
-hidden: true
-visible: 0
 ---
 
 # Strain-level metagenome assembly with Strainberry
