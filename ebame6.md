@@ -1,6 +1,8 @@
 ---
-layout: home
+layout: page
 title: EBAME6 Strain-level metagenome assembly with Strainberry
+permalink: /ebame6/
+hidden: true
 visible: 0
 ---
 
