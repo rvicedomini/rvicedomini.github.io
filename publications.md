@@ -16,7 +16,7 @@ permalink: /publications/
 
 - R. Vicedomini, C. Blachon, F. Oteri &amp; A. Carbone,
 **MyCLADE: a multi-source domain annotation server for sequence functional exploration**,
-*Nucleic Acids Research* (2021). doi:&nbsp;[10.1093/nar/gkab395](https://doi.org/10.1093/nar/gkab395)
+*Nucleic Acids Research*, Web Server Issue (2021). doi:&nbsp;[10.1093/nar/gkab395](https://doi.org/10.1093/nar/gkab395)
 
 - L. David, R. Vicedomini, H. Richard &amp; A. Carbone,
 **Targeted domain assembly for fast functional profiling of metagenomic datasets with S3A**,
