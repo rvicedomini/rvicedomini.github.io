@@ -43,7 +43,7 @@ permalink: /publications/
 
 - R. Vicedomini\*, J.-P. Bouly\*, E. Laine, A. Falciatore &amp; A. Carbone,
 **Multiple probabilistic models extract features from protein sequence data and resolve functional diversity of very different protein families**,
-*bioRxiv* (2021). doi:&nbsp;[10.1101/717249](https://doi.org/10.1101/717249) (*In Review*)
+*bioRxiv* (2021). doi:&nbsp;[10.1101/717249](https://doi.org/10.1101/717249) *(in review)*
 
 - R. Vicedomini\*, L. Polit\*, S. Condemi, L. Longo &amp; A. Carbone,
 **Dietary adaptation in Neandertal, Denisovan and Sapiens revealed by gene copy number variation**
