@@ -23,3 +23,12 @@ permalink: /talks/
 
 **GAM: Genomic Assemblies Merger**
 : 9th Annual Meeting of the Bioinformatics Italian Society (BITS) 2012, Catania 🇮🇹
+
+## Invited Talks
+
+**Strainberry: automated strain separation in low-complexity metagenomes using long reads**
+: IV105 Bioinformatics seminar, Masaryk University, 22nd September 2021, Online
+
+**Strain deconvolution with Strainberry**
+: 6th EBAME Workshop on Computational Microbial Ecogenomics, 3rd November 2021, Brest 🇫🇷
+
