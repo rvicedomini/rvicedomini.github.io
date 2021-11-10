@@ -7,7 +7,7 @@ permalink: /talks/
 ## Conferences
 
 **Automated strain separation in low-complexity metagenomes using long reads**
-: Nanopore Community Meeting 2020, Online
+: RECOMB-Seq 2021, Online
 
 **ProfileView: a pipeline based on multiple probabilistic models resolving the functional organization of the Cryptochrome/Photolyase protein family**
 : ISMB/ECCB 2019, Basel 🇨🇭
@@ -31,4 +31,7 @@ permalink: /talks/
 
 **Strain deconvolution with Strainberry**
 : 6th EBAME Workshop on Computational Microbial Ecogenomics, 3rd November 2021, Brest 🇫🇷
+
+**Automated strain separation in low-complexity metagenomes using long reads**
+: Nanopore Community Meeting 2020, Online
 
