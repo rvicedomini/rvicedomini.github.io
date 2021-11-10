@@ -33,5 +33,5 @@ permalink: /talks/
 : 6th EBAME Workshop on Computational Microbial Ecogenomics, 3rd November 2021, Brest 🇫🇷
 
 **Automated strain separation in low-complexity metagenomes using long reads**
-: Nanopore Community Meeting 2020, Online
+: Nanopore Community Meeting 2020, Online [[video]](https://www.youtube.com/watch?v=xJ5H3N-kD74)
 
