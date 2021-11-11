@@ -26,7 +26,7 @@ permalink: /talks/
 
 ## Invited Talks
 
-**Strain deconvolution with Strainberry**
+**Strain deconvolution with Strainberry** (Lecture + Tutorial)
 : 6th EBAME Workshop on Computational Microbial Ecogenomics, 3rd November 2021, Brest 🇫🇷
 
 **Strainberry: automated strain separation in low-complexity metagenomes using long reads**
