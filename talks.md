@@ -26,11 +26,11 @@ permalink: /talks/
 
 ## Invited Talks
 
-**Strainberry: automated strain separation in low-complexity metagenomes using long reads**
-: IV105 Bioinformatics seminar, Masaryk University, 22nd September 2021, Online
-
 **Strain deconvolution with Strainberry**
 : 6th EBAME Workshop on Computational Microbial Ecogenomics, 3rd November 2021, Brest 🇫🇷
+
+**Strainberry: automated strain separation in low-complexity metagenomes using long reads**
+: IV105 Bioinformatics seminar, Masaryk University, 22nd September 2021, Online
 
 **Automated strain separation in low-complexity metagenomes using long reads**
 : Breakout talk, Nanopore Community Meeting 2020, Online [[video]](https://www.youtube.com/watch?v=xJ5H3N-kD74)
