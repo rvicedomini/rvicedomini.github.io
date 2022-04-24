@@ -7,7 +7,7 @@ permalink: /teaching/
 # 2021/22
 
 **Algorithmics**
-: Exercises (TD), 1st year, MSc Linguistic-Informatics
+: Exercises (TD), 1st year, MSc (Linguistique-Informatique)
 : Université Paris Diderot, Paris, France
 : *24 hours*
 
