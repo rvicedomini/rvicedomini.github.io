@@ -6,6 +6,10 @@ permalink: /publications/
 
 # Journals
 
+- R. Vicedomini\*, J.-P. Bouly\*, E. Laine, A. Falciatore &amp; A. Carbone,
+**Multiple Profile Models Extract Features from Protein Sequence Data and Resolve Functional Diversity of Very Different Protein Families**,
+*Molecular Biology and Evolution* (2022). doi:&nbsp;[10.1093/molbev/msac070](https://doi.org/10.1093/molbev/msac070)
+
 - R. Vicedomini, C. Quince, A. E. Darling &amp; R. Chikhi,
 **Strainberry: automated strain separation in low-complexity metagenomes using long reads**,
 *Nature Communications* (2021). doi:&nbsp;[10.1038/s41467-021-24515-9](https://doi.org/10.1038/s41467-021-24515-9)
@@ -40,10 +44,6 @@ permalink: /publications/
 
 
 # Pre-prints
-
-- R. Vicedomini\*, J.-P. Bouly\*, E. Laine, A. Falciatore &amp; A. Carbone,
-**Multiple probabilistic models extract features from protein sequence data and resolve functional diversity of very different protein families**,
-*bioRxiv* (2021). doi:&nbsp;[10.1101/717249](https://doi.org/10.1101/717249) *(in review)*
 
 - R. Vicedomini\*, L. Polit\*, S. Condemi, L. Longo &amp; A. Carbone,
 **Dietary adaptation in Neandertal, Denisovan and Sapiens revealed by gene copy number variation**
