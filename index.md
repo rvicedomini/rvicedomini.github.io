@@ -7,10 +7,10 @@ title: Home
 
 # About me
 
-I am a computer scientist working in the field of bioinformatics.
+I am a CNRS researcher working in the field of bioinformatics.
 
-My main interest is to develop methods for solving concrete biological problems.
-At present, I am particularly focused on the assembly and analysis of (meta)genomes, using data obtained with the latest sequencing technologies.
+My interest is to develop methods for solving concrete biological problems.
+At present, I am developing methods to identify and reconstruct individual genomes of highly similar bacterial strains in metagenomes.
 
 In my free time I enjoy programming, running, playing piano.
 
@@ -26,9 +26,9 @@ I adapted the assembly reconciliation tool I was developing in order to cope wit
 After the PhD, I started a postdoc at Sorbonne Université (Paris, France). I worked on methods for protein domain annotation and functional characterization 
 in the Laboratory of Computational and Quantitative Biology, under the supervision of [Alessandra Carbone](http://www.ihes.fr/~carbone/).
 
-Since February 2020, I am a postdoctoral researcher at Institut Pasteur (Paris, France) in the [Sequence Bioinformatics](https://research.pasteur.fr/en/team/sequence-bioinformatics/) team, under the supervision of [Rayan Chikhi](http://rayan.chikhi.name).
-My current research project consists in the development of novel methods to identify and reconstruct individual genomes of highly similar bacterial strains in metagenomes.
+In February 2020 I started a postdoc at Institut Pasteur (Paris, France) in the [Sequence Bioinformatics](https://research.pasteur.fr/en/team/sequence-bioinformatics/) team, under the supervision of [Rayan Chikhi](http://rayan.chikhi.name). I worked on strain-level metagenome assembly and the analysis of sequencing data through k-mer-based methods.
 
+Since February 2023 I am a CNRS researcher at [IRISA](https://www.irisa.fr) (Rennes, France) in the [Genscale](https://team.inria.fr/genscale/) team.
 
 # Research interests
 
