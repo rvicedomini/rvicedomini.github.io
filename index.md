@@ -21,7 +21,7 @@ I studied Computer Science at the University of Udine (Italy) and earned a PhD i
 Under the supervision of [Alberto Policriti](http://users.dimi.uniud.it/~alberto.policriti/), I worked on methods for *de novo* genome assembly and approximate sequence alignment.
 
 During my PhD, I also contributed to the *Spruce Genome Project* for the assembly of the first draft sequence of the 20-Gbp *Picea abies* genome. 
-I adapted the assembly reconciliation tool I was developing in order to cope with the huge amount of data produced and to improve assembly's quality.
+I adapted the assembly reconciliation tool I was developing in order to cope with the large amount of data produced and to improve assembly's quality.
 
 After the PhD, I started a postdoc at Sorbonne Université (Paris, France). I worked on methods for protein domain annotation and functional characterization 
 in the Laboratory of Computational and Quantitative Biology, under the supervision of [Alessandra Carbone](http://www.ihes.fr/~carbone/).
@@ -32,6 +32,6 @@ Since February 2023 I am a CNRS researcher at [IRISA](https://www.irisa.fr) (Ren
 
 # Research interests
 
-- Genome and metagenome assembly
+- Metagenome strain-level assembly
 - Haplotype phasing methods
 - Algorithms and data structures for bioinformatics

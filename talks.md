@@ -4,8 +4,10 @@ title: Talks
 permalink: /talks/
 ---
 
+## Conferences
+
 **Automated strain separation in low-complexity metagenomes using long reads**
-: Nanopore Community Meeting 2020, Online
+: RECOMB-Seq 2021, Online
 
 **ProfileView: a pipeline based on multiple probabilistic models resolving the functional organization of the Cryptochrome/Photolyase protein family**
 : ISMB/ECCB 2019, Basel 🇨🇭
@@ -21,3 +23,15 @@ permalink: /talks/
 
 **GAM: Genomic Assemblies Merger**
 : 9th Annual Meeting of the Bioinformatics Italian Society (BITS) 2012, Catania 🇮🇹
+
+## Invited Talks
+
+**Strain deconvolution with Strainberry** (Lecture + Tutorial)
+: 6th EBAME Workshop on Computational Microbial Ecogenomics, 3rd November 2021, Brest 🇫🇷
+
+**Strainberry: automated strain separation in low-complexity metagenomes using long reads**
+: IV105 Bioinformatics seminar, Masaryk University, 22nd September 2021, Online
+
+**Automated strain separation in low-complexity metagenomes using long reads**
+: Breakout talk, Nanopore Community Meeting 2020, Online [[video]](https://www.youtube.com/watch?v=xJ5H3N-kD74)
+
