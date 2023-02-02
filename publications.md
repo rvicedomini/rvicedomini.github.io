@@ -45,6 +45,10 @@ permalink: /publications/
 
 # Pre-prints
 
+- C. Duitama Gonzàlez, R. Vicedomini, T. Lemane, N. Rascovan, H. Richard &amp; R. Chikhi,
+**decOM: Similarity-based microbial source tracking of ancient oral samples using k-mer-based methods**
+*bioRxiv* (2023). doi:&nbsp;[10.1101/2023.01.26.525439](https://doi.org/10.1101/2023.01.26.525439)
+
 - R. Vicedomini\*, L. Polit\*, S. Condemi, L. Longo &amp; A. Carbone,
 **Dietary adaptation in Neandertal, Denisovan and Sapiens revealed by gene copy number variation**
 *bioRxiv* (2021). doi:&nbsp;[10.1101/2021.10.30.466563](https://doi.org/10.1101/2021.10.30.466563)
