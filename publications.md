@@ -6,6 +6,18 @@ permalink: /publications/
 
 # Journals
 
+- C. Duitama Gonzalez, R. Vicedomini, T. Lemane, N. Rascovan, H. Richard, R. Chikhi,
+**decOM: similarity-based microbial source tracking of ancient oral samples using k-mer-based methods**,
+*Microbiome* (2023) doi:&nbsp;[10.1186/s40168-023-01670-3](https://doi.org/10.1186/s40168-023-01670-3)
+
+- C. Duitama Gonzalez, S. Rangavittal, R. Vicedomini, R. Chikhi, H. Richard,
+**aKmerBroom: Ancient oral DNA decontamination using Bloom filters on k-mer sets**,
+*Iscience* (2023). doi:&nbsp;[10.1016/j.isci.2023.108057](https://doi.org/10.1016/j.isci.2023.108057)
+
+- F. Meyer *et al.*,
+**Critical Assessment of Metagenome Interpretation: the second round of challenges**,
+*Nature Methods* (2022). doi:&nbsp;[10.1038/s41592-022-01431-4](https://doi.org/10.1038/s41592-022-01431-4)
+
 - R. Vicedomini\*, J.-P. Bouly\*, E. Laine, A. Falciatore &amp; A. Carbone,
 **Multiple Profile Models Extract Features from Protein Sequence Data and Resolve Functional Diversity of Very Different Protein Families**,
 *Molecular Biology and Evolution* (2022). doi:&nbsp;[10.1093/molbev/msac070](https://doi.org/10.1093/molbev/msac070)
@@ -44,10 +56,6 @@ permalink: /publications/
 
 
 # Pre-prints
-
-- C. Duitama Gonzàlez, R. Vicedomini, T. Lemane, N. Rascovan, H. Richard &amp; R. Chikhi,
-**decOM: Similarity-based microbial source tracking of ancient oral samples using k-mer-based methods**
-*bioRxiv* (2023). doi:&nbsp;[10.1101/2023.01.26.525439](https://doi.org/10.1101/2023.01.26.525439)
 
 - R. Vicedomini\*, L. Polit\*, S. Condemi, L. Longo &amp; A. Carbone,
 **Dietary adaptation in Neandertal, Denisovan and Sapiens revealed by gene copy number variation**
