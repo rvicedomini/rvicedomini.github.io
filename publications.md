@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Journals
-
 - C. Duitama Gonzalez, R. Vicedomini, T. Lemane, N. Rascovan, H. Richard, R. Chikhi,
 **decOM: similarity-based microbial source tracking of ancient oral samples using k-mer-based methods**,
 *Microbiome* (2023) doi:&nbsp;[10.1186/s40168-023-01670-3](https://doi.org/10.1186/s40168-023-01670-3)
