@@ -4,6 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
+# 2023/24
+
+**Experimental Bioinformatics**
+: Master course (CM), 1st year, MSc
+: École Normale Supérieure, Rennes, France
+: *10 hours*
+
 # 2021/22
 
 **Algorithmics**
