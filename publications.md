@@ -42,6 +42,10 @@ permalink: /publications/
 **A multi-source domain annotation pipeline for quantitative metagenomic and metatranscriptomic functional profiling**,
 *Microbiome* (2018). doi:&nbsp;[10.1186/s40168-018-0532-2](https://doi.org/10.1186/s40168-018-0532-2)
 
+- R. Vicedomini, F. Vezzi, S. Scalabrin, L. Arvestad &amp; A. Policriti,
+**Hierarchical assembly of pools**,
+*Bioinformatics and Biomedical Engineering, Lecture Notes in Computer Science, Springer International Publishing* (2015). doi:&nbsp;[10.1007/978-3-319-16480-9_21](https://doi.org/10.1007/978-3-319-16480-9_21)
+
 - K. R. Bradnam *et al.*,
 **Assemblathon 2: evaluating de novo methods of genome assembly in three vertebrate species**,
 *Gigascience* (2013). doi:&nbsp;[10.1186/2047-217X-2-10](https://doi.org/10.1186/2047-217X-2-10)
@@ -54,20 +58,11 @@ permalink: /publications/
 **GAM-NGS: genomic assemblies merger for next generation sequencing**
 *BMC Bioinformatics* (2013). doi:&nbsp;[10.1186/1471-2105-14-S7-S6](https://doi.org/10.1186/1471-2105-14-S7-S6)
 
-
 # Pre-prints
 
 - R. Vicedomini\*, L. Polit\*, S. Condemi, L. Longo &amp; A. Carbone,
 **Dietary adaptation in Neandertal, Denisovan and Sapiens revealed by gene copy number variation**
 *bioRxiv* (2021). doi:&nbsp;[10.1101/2021.10.30.466563](https://doi.org/10.1101/2021.10.30.466563)
-
-
-# Conferences
-
-- R. Vicedomini, F. Vezzi, S. Scalabrin, L. Arvestad &amp; A. Policriti,
-**Hierarchical assembly of pools**,
-*Bioinformatics and Biomedical Engineering, Lecture Notes in Computer Science, Springer International Publishing* (2015). doi:&nbsp;[10.1007/978-3-319-16480-9_21](https://doi.org/10.1007/978-3-319-16480-9_21)
-
 
 # PhD Thesis
 
