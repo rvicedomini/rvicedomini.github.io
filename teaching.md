@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# 2023/24
+# 2023/24 - 2024/25
 
 **Experimental Bioinformatics**
 : Master course (CM), 1st year, MSc
