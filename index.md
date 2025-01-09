@@ -38,10 +38,10 @@ Since February 2023 I am a CNRS researcher at [IRISA](https://www.irisa.fr) (Ren
 
 # Current students
 
-- Nicolas Maurice - PhD student, co-supervised with [C. Lemaitre](https://people.rennes.inria.fr/Claire.Lemaitre/) and [C. Frioux](https://cfrioux.github.io)
-- Lune Angevin - PhD student, co-supervised with E. Roux and [P. Peterlongo](https://people.rennes.inria.fr/Pierre.Peterlongo/)
+- Nicolas Maurice - PhD student, co-supervised with [Claire Lemaitre](https://people.rennes.inria.fr/Claire.Lemaitre/) and [Clémence Frioux](https://cfrioux.github.io)
+- Lune Angevin - PhD student, co-supervised with Emeline Roux and [Pierre Peterlongo](https://people.rennes.inria.fr/Pierre.Peterlongo/)
 - Josipa Lipovac - Visiting PhD student from the University of Zagreb
 
 # Former students
 
-- [Camila Duitama](https://camiladuitama.github.io/gradfolio/) - PhD student, co-supervised with [R. Chikhi](https://rayan.chikhi.name) and [H. Richard](http://www.lcqb.upmc.fr/hrichard)
+- [Camila Duitama](https://camiladuitama.github.io/gradfolio/) - PhD student, co-supervised with [Rayan Chikhi](https://rayan.chikhi.name) and [Hugues Richard](http://www.lcqb.upmc.fr/hrichard)
