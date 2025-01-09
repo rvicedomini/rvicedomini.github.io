@@ -9,13 +9,13 @@
   {%- endif -%}
   {%- if site.twitter_username -%}
   <li>
-    <svg class="svg-icon" style="fill:#1da1f2;"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> 
+    <svg class="svg-icon" style="fill:#1da1f2;"><image width="16" height="16" xlink:href="{{ '/assets/x-icon.svg' | relative_url }}"/></svg>
     <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><span>{{ site.twitter_username| escape }}</span></a>
   </li>
   {%- endif -%}
   {%- if site.bluesky_username -%}
   <li>
-    <svg class="svg-icon" style="fill:#1da1f2;"><image width="16" height="14" xlink:href="{{ '/assets/bluesky-icon.svg' | relative_url }}"/></svg>
+    <svg class="svg-icon" style="fill:#1da1f2;"><image width="16" xlink:href="{{ '/assets/bluesky-icon.svg' | relative_url }}"/></svg>
     <a href="https://bsky.app/profile/{{ site.bluesky_username| cgi_escape | escape }}"><span>{{ site.bluesky_username| escape }}</span></a>
   </li>
   {%- endif -%}
