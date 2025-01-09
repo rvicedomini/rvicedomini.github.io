@@ -36,12 +36,12 @@ Since February 2023 I am a CNRS researcher at [IRISA](https://www.irisa.fr) (Ren
 - Haplotype phasing methods
 - Algorithms and data structures for bioinformatics
 
-# Current (co-)supervised students
+# Current students
 
 - Nicolas Maurice - PhD student, co-supervised with [C. Lemaitre](https://people.rennes.inria.fr/Claire.Lemaitre/) and [C. Frioux](https://cfrioux.github.io)
 - Lune Angevin - PhD student, co-supervised with E. Roux and [P. Peterlongo](https://people.rennes.inria.fr/Pierre.Peterlongo/)
 - Josipa Lipovac - Visiting PhD student from the University of Zagreb
 
-# Former (co-)supervised students
+# Former students
 
 - [Camila Duitama](https://camiladuitama.github.io/gradfolio/) - PhD student, co-supervised with [R. Chikhi](https://rayan.chikhi.name) and [H. Richard](http://www.lcqb.upmc.fr/hrichard)
