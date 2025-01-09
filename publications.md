@@ -58,7 +58,7 @@ permalink: /publications/
 
 # Pre-prints
 
-- R. Vicedomini, F. Andreace, Y. Dufresne, R. Chikhi, C. Duitama Gonzalez
+- R. Vicedomini, F. Andreace, Y. Dufresne, R. Chikhi, C. Duitama Gonzalez,
 **MUSET: Set of utilities for the construction of abundance unitig matrices from sequencing data**,
 *HAL open science* (2024) HAL Id:&nbsp;[hal-04831168](https://hal.science/hal-04831168)
 
