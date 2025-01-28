@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+- S. Liu *et al.*,
+**Analysis of metagenomic data**,
+*Nature Reviews Methods Primers* (2025) doi:&nbsp;[10.1038/s43586-024-00376-6](https://doi.org/10.1038/s43586-024-00376-6)
+
 - C. Duitama Gonzalez, R. Vicedomini, T. Lemane, N. Rascovan, H. Richard, R. Chikhi,
 **decOM: similarity-based microbial source tracking of ancient oral samples using k-mer-based methods**,
 *Microbiome* (2023) doi:&nbsp;[10.1186/s40168-023-01670-3](https://doi.org/10.1186/s40168-023-01670-3)
