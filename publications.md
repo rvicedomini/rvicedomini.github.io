@@ -66,10 +66,6 @@ permalink: /publications/
 
 # Pre-prints
 
-- R. Vicedomini, F. Andreace, Y. Dufresne, R. Chikhi, C. Duitama Gonzalez,
-**MUSET: Set of utilities for the construction of abundance unitig matrices from sequencing data**,
-*HAL open science* (2024) HAL Id:&nbsp;[hal-04831168](https://hal.science/hal-04831168)
-
 - R. Vicedomini\*, N. Righetti\*, L. Polit\*, S. Condemi, L. Longo &amp; A. Carbone,
 **Genetic dietary adaptation in Neandertal, Denisovan and Sapiens revealed by gene copy number variation**
 *bioRxiv* (2024). doi:&nbsp;[10.1101/2021.10.30.466563](https://doi.org/10.1101/2021.10.30.466563)
