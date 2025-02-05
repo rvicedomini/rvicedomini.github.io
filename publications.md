@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+- R. Vicedomini, F. Andreace, Y. Dufresne, R. Chikhi, C. Duitama González,
+**MUSET: Set of utilities for constructing abundance unitig matrices from sequencing data**,
+*Bioinformatics* (2025) doi:&nbsp;[10.1093/bioinformatics/btaf054](https://doi.org/10.1093/bioinformatics/btaf054)
+
 - S. Liu *et al.*,
 **Analysis of metagenomic data**,
 *Nature Reviews Methods Primers* (2025) doi:&nbsp;[10.1038/s43586-024-00376-6](https://doi.org/10.1038/s43586-024-00376-6)
