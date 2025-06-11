@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+- N. Maurice, C. Lemaitre, R. Vicedomini, C. Frioux,
+**Mapler: A pipeline for assessing assembly quality in taxonomically rich metagenomes sequenced with HiFi reads**,
+*Bioinformatics* (2025) doi:&nbsp;[10.1093/bioinformatics/btaf334](https://doi.org/10.1093/bioinformatics/btaf334)
+
 - R. Vicedomini, F. Andreace, Y. Dufresne, R. Chikhi, C. Duitama González,
 **MUSET: Set of utilities for constructing abundance unitig matrices from sequencing data**,
 *Bioinformatics* (2025) doi:&nbsp;[10.1093/bioinformatics/btaf054](https://doi.org/10.1093/bioinformatics/btaf054)
@@ -65,6 +69,10 @@ permalink: /publications/
 *BMC Bioinformatics* (2013). doi:&nbsp;[10.1186/1471-2105-14-S7-S6](https://doi.org/10.1186/1471-2105-14-S7-S6)
 
 # Pre-prints
+
+- J. Lipovac, M. Šikić, R. Vicedomini, K. Križanović,
+**MADRe: Strain-Level Metagenomic Classification Through Assembly-Driven Database Reduction**
+*bioRxiv* (2025). doi:&nbsp;[10.1101/2025.05.12.653324](https://doi.org/10.1101/2025.05.12.653324)
 
 - R. Vicedomini\*, N. Righetti\*, L. Polit\*, S. Condemi, L. Longo &amp; A. Carbone,
 **Genetic dietary adaptation in Neandertal, Denisovan and Sapiens revealed by gene copy number variation**
