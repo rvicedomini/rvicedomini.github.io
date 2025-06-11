@@ -12,7 +12,7 @@ I am a CNRS researcher working in the field of bioinformatics.
 My interest is to develop methods for solving concrete biological problems.
 At present, I am developing methods to identify and reconstruct individual genomes of highly similar bacterial strains in metagenomes.
 
-In my free time I enjoy programming, running, playing piano.
+In my free time I enjoy playing piano.
 
 
 # Short bio
@@ -32,16 +32,17 @@ Since February 2023 I am a CNRS researcher at [IRISA](https://www.irisa.fr) (Ren
 
 # Research interests
 
-- Metagenome strain-level assembly
+- Strain-level metagenome analyses (e.g., assembly, taxonomic assignment)
 - Haplotype phasing methods
 - Algorithms and data structures for bioinformatics
 
 # Current students
 
-- Nicolas Maurice - PhD student, co-supervised with [Claire Lemaitre](https://people.rennes.inria.fr/Claire.Lemaitre/) and [Clémence Frioux](https://cfrioux.github.io)
+- Marcus Foin - M1 student, co-supervised with Rumen Andonov
 - Lune Angevin - PhD student, co-supervised with Emeline Roux and [Pierre Peterlongo](https://people.rennes.inria.fr/Pierre.Peterlongo/)
-- Josipa Lipovac - Visiting PhD student from the University of Zagreb
+- Nicolas Maurice - PhD student, co-supervised with [Claire Lemaitre](https://people.rennes.inria.fr/Claire.Lemaitre/) and [Clémence Frioux](https://cfrioux.github.io) 
 
 # Former students
 
 - [Camila Duitama](https://camiladuitama.github.io/gradfolio/) - PhD student, co-supervised with [Rayan Chikhi](https://rayan.chikhi.name) and [Hugues Richard](http://www.lcqb.upmc.fr/hrichard)
+- Josipa Lipovac - Visiting PhD student from the University of Zagreb
