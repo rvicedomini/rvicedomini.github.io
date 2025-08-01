@@ -32,17 +32,17 @@ Since February 2023 I am a CNRS researcher at [IRISA](https://www.irisa.fr) (Ren
 
 # Research interests
 
-- Strain-level metagenome analyses (e.g., assembly, taxonomic assignment)
+- Metagenome analyses (e.g., assembly, taxonomic assignment)
 - Haplotype phasing methods
-- Algorithms and data structures for bioinformatics
+- Algorithms for bioinformatics
 
 # Current students
 
-- Marcus Foin - M1 student, co-supervised with Rumen Andonov
 - Lune Angevin - PhD student, co-supervised with Emeline Roux and [Pierre Peterlongo](https://people.rennes.inria.fr/Pierre.Peterlongo/)
 - Nicolas Maurice - PhD student, co-supervised with [Claire Lemaitre](https://people.rennes.inria.fr/Claire.Lemaitre/) and [Clémence Frioux](https://cfrioux.github.io) 
 
 # Former students
 
+- Marcus Foin - M1 student, co-supervised with Rumen Andonov
+- [Josipa Lipovac](https://scholar.google.com/citations?user=2gyioaEAAAAJ) - Visiting PhD student from the University of Zagreb
 - [Camila Duitama](https://camiladuitama.github.io/gradfolio/) - PhD student, co-supervised with [Rayan Chikhi](https://rayan.chikhi.name) and [Hugues Richard](http://www.lcqb.upmc.fr/hrichard)
-- Josipa Lipovac - Visiting PhD student from the University of Zagreb
